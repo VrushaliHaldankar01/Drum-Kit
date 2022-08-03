@@ -10,6 +10,7 @@ document.querySelectorAll(".drum")[i].addEventListener("click",function () {
         audio.play();
         break;
            
+         
         case "a":
         var audio1=new Audio("sounds/kick-bass.mp3");
         audio1.play();
